@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="float_transparent">#00000000</color>
-    <color name="color_red">#DD6B55</color>
+    <color name="color_red">#FF0000</color>
     <color name="color_white">#FFFFFF</color>
     <color name="color_green">#7CB342</color>
     <color name="color_yellow">#FFB300</color>
